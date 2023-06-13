@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK,CACD,SAAS,CAAE,GAAG",
+"sources": ["scss/rtl.min.scss"],
+"names": [],
+"file": "rtl.min.css"
+}
